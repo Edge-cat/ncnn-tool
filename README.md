@@ -1,7 +1,7 @@
 ![36b1d038bdb1b5d4392f2b9ee71059a](https://github.com/user-attachments/assets/924fa77c-c092-4342-a48f-bb086394b607)  
 # modules.py:  
   
-##### 推荐设置一个专门的导出环境  
+##### 推荐独立设置一个专门的导出环境和一个独立的训练环境  
 ##### 这是修改完成，实测可安装的modules.py  
 ##### 替换路径：导出虚拟环境下-Lib-site-packages-ultralytics-nn-modules.py  
   
