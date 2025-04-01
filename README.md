@@ -19,7 +19,7 @@
 #### 用于onnx2ncnn部分，转换结果为param&bin（ncnn格式）  
 #### 使用方法为放置在转换脚本同级文件夹下，于terminal中输入下行命令  
 #### ./onnx2ncnn pt2onnx部分完成的模型.onnx 导出的模型名称.param 导出的模型名称.bin  
-
+#####
 # 注意事项
 #### 修改ultralytics后，修改了的环境将无法进行模型训练，原因是修改的参数导致训练的中间模块断链  
 #### fucn1：给修改完的ultralytics一个新的包名，如transform，之后调用该包时换用调用方法。重载ultralyrics==8.0.50，实现两包在同一环境下分割  
