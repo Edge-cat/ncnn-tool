@@ -16,6 +16,8 @@
 ##### 详细
 # onnx2ncnn & onnx2ncnn.exe:  
 
+
+
 #### 用于onnx2ncnn部分，转换结果为param&bin（ncnn格式）  
 #### 使用方法为放置在转换脚本同级文件夹下，于terminal中输入下行命令  
 #### ./onnx2ncnn pt2onnx部分完成的模型.onnx 导出的模型名称.param 导出的模型名称.bin  
